@@ -25,10 +25,11 @@ export default function ImageWithDetail({
             variant="subtitle1"
             fontWeight={600}
             className="font-work-sans"
+            fontSize={22}
           >
             {heading}
           </Typography>
-          <Typography variant="body1" className="font-muli">
+          <Typography variant="body1" className="font-muli" fontSize={16}>
             {description}
           </Typography>
         </CardContent>
