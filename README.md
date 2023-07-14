@@ -1,6 +1,6 @@
 # Frontend Web Development Assessment | Multor Landing Page
 
-This application features a landing page with a list of UI features and responsive design. You can check out a live demo [here]([https://q-rate-task.vercel.app/](https://multor-landing-page-mlyjtrhhn-madhavkabra730-gmailcom.vercel.app/)).
+This application features a landing page with a list of UI features and responsive design. You can check out a live demo [here]([https://q-rate-task.vercel.app/](https://multor-landing-page-mlyjtrhhn-madhavkabra730-gmailcom.vercel.app/).
 
 ## Features
 
